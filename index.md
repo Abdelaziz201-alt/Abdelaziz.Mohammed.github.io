@@ -13,7 +13,7 @@ Automation and robotics play a vital role in modern industries, where efficiency
 - [Report Progress3](WEEK_Report_3.pdf)
 - [Report Progress4](WEEK_Report_4.pdf)
 - [Slides](Electrical_Actuation_Systems.pdf)
-- [Course Book](#)
+- [Course Book](Mechatronics_Electronic_Control_Systems_book.pdf)
 - [Video Demo](https://www.youtube.com/watch?v=ZXRSt3asv0w)
 ## Results
 The final results of this project demonstrate the successful development of an integrated robotic arm system capable of performing automated pick-and-place tasks. The mechanical structure of the robotic arm was fully designed and modeled, with appropriate actuators selected based on torque and performance requirements. A gripper system was implemented and tested to ensure reliable object handling, while vision-based tracking using computer vision techniques enabled the robot to detect and follow target objects. Additionally, the system was integrated with a ROS2-based control framework, allowing for motion planning and coordinated operation of all components. Overall, the project achieved a functional prototype that can autonomously detect, track, and manipulate objects with reasonable accuracy, showcasing the effectiveness of combining sensing, control, and mechanical design into a unified system.
