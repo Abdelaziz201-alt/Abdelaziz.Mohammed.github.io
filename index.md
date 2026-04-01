@@ -1,7 +1,9 @@
-# My Project Website
+# Pick and Place
 ## Team Members
-- Your Name
-- Partner Name
+- Abdelaziz
+- Khaled
+- Omar
+- Hamza
 ## Project Question
 How can we design and test a simple project website using GitHub Pages?
 ## Background
