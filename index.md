@@ -11,7 +11,7 @@ This site collects our project materials, notes, and deliverables.
 ## Project Resources
 - [Project Proposal](#)
 - [Report Progress3](WEEK_Report_3.pdf)
-- [Report Progress4](WEEK_Report_3.pdf)
+- [Report Progress4](WEEK_Report_4.pdf)
 - [Slides](#)
 - [Shared Folder](#)
 - [Video Demo](#)
